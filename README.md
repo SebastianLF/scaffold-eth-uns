@@ -8,6 +8,8 @@ https://github.com/SebastianLF/scaffold-eth-uns/
 
 ## Recorded video demo of the integration (max. 3 mins)
 
+https://user-images.githubusercontent.com/7540595/168316509-be7eae5d-1ed6-4eed-9037-37db01f74b4d.mp4
+
 ## Person of contact in case there are any questions
 
 - **Telegram:** https://t.me/SebParango
